@@ -6,7 +6,7 @@ We can construct this hierarchy as such. Where User is represented by str repres
 Write a function that provides an efficient look up of whether the user is in a group.
 
 
-## Explantion
+## Explanation
 Recursion function is been implemented to search the required element. 
 Name of the group is checked first, to check if it matches the name of the user. 
 Then each level is checked for the existence of the user. 
